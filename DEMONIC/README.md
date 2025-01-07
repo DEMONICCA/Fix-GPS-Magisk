@@ -1,4 +1,4 @@
-> ![20241111_190644](https://github.com/user-attachments/assets/d10508d5-4f00-4afd-9a88-da7ab4b299fd)
+> ![20250107_113824](https://github.com/user-attachments/assets/cddc56be-03cd-4640-aab2-1c04104e53f9)
 
 > **DESCRIPTION...**    
 > fixing GPS on the device, does not guarantee success keep that in mind.
@@ -11,9 +11,8 @@
 <hr/>
 
 > [!NOTE]
-> - Support Android 10-15
 > - Support [Ksu](https://github.com/tiann/KernelSU/releases)-[APatch](https://github.com/bmax121/APatch/releases/tag/10763)-[Magisk](https://github.com/topjohnwu/Magisk/releases/tag/v28.0)
-> - Download [Sdmaid](https://play.google.com/store/apps/details?id=eu.thedarken.sdm)
+> - Fixing GPS on the device, does not guarantee success keep that in mind.
 <hr/>
 
 > [!WARNING]
@@ -30,7 +29,6 @@
 > Tested on several devices such as.     
 > Redmi Note 12 4G NFC (TOPAZ)     
 > Redmi Note 8 (GINKGO)     
-> Redmi Note 7 (LAVENDER)
 <hr/>
 
 > [![Telegram URL](https://img.shields.io/badge/Telegram-Join-2CA5E?style=social&logo=telegram)](https://t.me/modulkuntul)
