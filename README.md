@@ -7,9 +7,14 @@
 
 > [!IMPORTANT]
 > Features 🚀:
-> 1. Bypass Safe Media Volume. ✔️
-> 2. Deactivate Safe Media Volume. ✔️
-> 3. Maximum Media Volume Set. ✔️
+> 1. Optimal GPS Configuration. ✔️
+>   - Set parameters in the `flp.conf`, `gps.conf`, and `gnss.conf` files to improve location data collection, geofence responsiveness, and GPS accuracy.
+> 2. SUPL & AGPS Settings. ✔️
+>   - Default SUPL server configuration, XTRA support, and NTP synchronization to speed up location discovery.
+> 3. Wider Compatibility. ✔️
+>   - The `gps.xml` and `system.prop` files provide additional options that can be customized to be more compatible with different devices and ROMs.
+> 4. Easy Customization. ✔️
+>   - Each configuration file is accompanied by comments explaining the function of each parameter so that it can be adjusted according to the needs and characteristics of the device.
 <hr/>
 
 > [!TIP]
